@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="laboratorio.devweb.DevwebApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-29T06:49:39" hostname="DESKTOP-V13NBMF" time="4.99">
+  <properties/>
+  <testcase name="contextLoads()" classname="laboratorio.devweb.DevwebApplicationTests" time="4.99"/>
+  <system-out><![CDATA[00:49:28.475 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [laboratorio.devweb.DevwebApplicationTests]: DevwebApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+00:49:29.309 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration laboratorio.devweb.DevwebApplication for test class laboratorio.devweb.DevwebApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-09-29T00:49:32.571-06:00  INFO 31972 --- [devweb] [    Test worker] l.devweb.DevwebApplicationTests          : Starting DevwebApplicationTests using Java 17.0.12 with PID 31972 (started by tato3216 in /mnt/c/Users/Tato3216/Documents/Universidad/Octavo Semestre/Desarrollo Web/Laboratorio/devweb)
+2024-09-29T00:49:32.574-06:00  INFO 31972 --- [devweb] [    Test worker] l.devweb.DevwebApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2024-09-29T00:49:39.210-06:00  INFO 31972 --- [devweb] [    Test worker] l.devweb.DevwebApplicationTests          : Started DevwebApplicationTests in 8.444 seconds (process running for 14.087)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
